@@ -83,7 +83,7 @@
     "mcp-use": ">=1.34.5-canary.0",
     "react": "^18.0.0 || ^19.0.0",
     "react-dom": "^18.0.0 || ^19.0.0",
-    "react-router": "^7.12.0"
+    "react-router": "^7.18.2"
   },
   "peerDependenciesMeta": {
     "express": {
@@ -91,7 +91,7 @@
     }
   },
   "dependencies": {
-    "@hono/node-server": "^1.19.13",
+    "@hono/node-server": "^1.19.15",
     "@modelcontextprotocol/ext-apps": "^1.0.1",
     "@modelcontextprotocol/sdk": "^1.26.0",
     "@paper-design/shaders-react": "^0.0.72",
@@ -111,7 +111,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
-    "hono": "^4.12.12",
+    "hono": "^4.13.5",
     "lucide-react": "^0.562.0",
     "markdown-to-jsx": "^9.7.4",
     "mcp-use": "workspace:*",
@@ -140,13 +140,13 @@
     "oauth2-mock-server": "^8.2.2",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "react-router": "^7.12.0",
+    "react-router": "^7.18.2",
     "tailwindcss": "^4.2.0",
     "tsup": "^8.5.1",
     "tsx": "^4.21.0",
     "tw-animate-css": "^1.4.0",
     "vite": "^8.0.16",
-    "vitest": "^4.1.0",
+    "vitest": "^5.0.0",
     "wait-on": "^9.0.4"
   }
 }
